@@ -1,0 +1,16 @@
+{
+    "amip": {
+        "clisccp": "../xmls/amip.GFDL-CM4.r1i1p1f1.clisccp.v20180701.xml",
+        "rsdscs": "../xmls/amip.GFDL-CM4.r1i1p1f1.rsdscs.v20180701.xml",
+        "rsuscs": "../xmls/amip.GFDL-CM4.r1i1p1f1.rsuscs.v20180701.xml",
+        "tas": "../xmls/amip.GFDL-CM4.r1i1p1f1.tas.v20180701.xml",
+        "wap": "../xmls/amip.GFDL-CM4.r1i1p1f1.wap.v20180701.xml"
+    },
+    "amip-p4K": {
+        "clisccp": "../xmls/amip-p4K.GFDL-CM4.r1i1p1f1.clisccp.v20180701.xml",
+        "rsdscs": "../xmls/amip-p4K.GFDL-CM4.r1i1p1f1.rsdscs.v20180701.xml",
+        "rsuscs": "../xmls/amip-p4K.GFDL-CM4.r1i1p1f1.rsuscs.v20180701.xml",
+        "tas": "../xmls/amip-p4K.GFDL-CM4.r1i1p1f1.tas.v20180701.xml",
+        "wap": "../xmls/amip-p4K.GFDL-CM4.r1i1p1f1.wap.v20180701.xml"
+    }
+}
